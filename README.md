@@ -6,7 +6,7 @@
 
 1) **Machine Learning Research Intern @ UT Southwestern** – Architecting computational neuro-behavioral models and social signal processing pipelines to analyze complex behavioral patterns.
 
-2) **Software Engineer Intern @ Dell Cloud Infrastructure** – Engineered scalable cloud solutions and infrastructure-as-code during the Summer 2025 term.
+2) **Software Engineer Intern @ Dell Cloud Infrastructure** – Previously engineered scalable cloud solutions and infrastructure-as-code during the Summer 2025 term.
 
 3) **Hardware & Software Developer @ Nova** – Engineered a high-throughput multimodal pipeline processing 1.2M+ LiDAR and vision frames/week, reducing model training time by 47%.
 
@@ -32,10 +32,9 @@
 
 ## things outside of technology:
 
-- **fun fact**: i am extremely talented at tactical shooters and was ranked in the **top 10,000 in the world** for **VALORANT**.
+- **fun fact**: i am a massive fan of **first-person shooters** and was previously ranked in the **top 10,000 in the world** for **VALORANT**.
 - i have been playing **tennis** my whole life and am an active member of the **UTD Tennis Club**.
 - i love being **athletic** and staying outdoors, specifically through **volleyball** and **hiking**.
-- i am a big fan of **video games**; outside of VALORANT, i spend most of my time in **ELDEN RING**.
 - i enjoy watching a **diverse genre of animes** and catching up on **TV shows** in my downtime.
 - i love to **travel** and explore new cultures whenever i have the opportunity.
 - i am a massive **music enthusiast**—my favorite bands are **Radiohead** and **The Strokes**.
