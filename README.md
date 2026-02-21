@@ -1,6 +1,6 @@
 # hey there! i am suhaas gaddala
 
-**an aspiring data scientist and finance enthusiast, currently focused on the intersection of machine learning, medicine, and finance.**
+**an aspiring computer scientist and finance enthusiast, currently focused on the intersection of machine learning, medicine, and finance.**
 
 ---
 
@@ -20,14 +20,14 @@
 
 * i love **sports**. i am an active member of the UTD tennis community and frequently play **pickleball**.
 * i am a big **gamer**. you can usually find me in the Lands Between in **ELDEN RING** or playing **VALORANT**.
-* i enjoy **media and music**. i'm a fan of **anime** (like Re:Zero) and listen to artists like **Radiohead** and **Nujabes**.
+* i enjoy **media and music**. i'm a fan of **anime** (like naruto & full metal alchemist) and my favorite bands are **Radiohead** and **The Strokes**.
 
 ---
 
 ### connect with me:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suhaas-gaddala/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suhaasga/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:suhaasg05@gmail.com)
 
 ### main languages and tools:
 
