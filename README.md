@@ -1,53 +1,53 @@
-### [cite_start]hey there! i am suhaas gaddala [cite: 1]
+### hey there! i am suhaas gaddala
 
-#### [cite_start]an aspiring data scientist and computer science student, currently focused on machine learning, cloud systems, and finance [cite: 5, 8]
+#### an aspiring data scientist and computer science student, currently focused on machine learning, cloud systems, and finance
 
 ## experience:
 
-[cite_start]1) **Machine Learning Research Intern @ UT Southwestern** – Focused on computational neuro-behavioral modeling and social signal processing to analyze behavioral patterns[cite: 10, 11, 13].
+1) **Machine Learning Research Intern @ UT Southwestern** – Working on computational neuro-behavioral modeling and social signal processing to analyze behavioral patterns.
 
 
-2) **Software Engineer Intern @ Dell Cloud Infrastructure** – Previously worked on cloud infrastructure and scalable systems during the Summer of 2025.
+2) **Technical Lead @ Lights Out Texas** – Leading the technical roadmap for an AI-powered bird reporting platform with the Texas Conservation Alliance.
 
 
-[cite_start]3) **Hardware & Software Developer @ Nova** – Engineered a high-throughput multimodal pipeline for LiDAR and vision data to improve hazard precision for autonomous driving[cite: 12, 14, 17, 18].
+3) **Software Engineer Intern @ Dell Cloud Infrastructure** – Previously engineered scalable cloud solutions and infrastructure (Summer 2025).
 
 
-[cite_start]4) **Technology & Operations Lead @ Manochetana** – Built digital fundraising platforms that scaled global reach and streamlined campaign execution workflows[cite: 21, 22, 24, 27].
+4) **Hardware & Software Developer @ Nova** – Built high-throughput multimodal pipelines for LiDAR and vision data to improve autonomous driving safety.
 
 
-## current & completed projects:
-
-[cite_start]1) **Technical Lead - Lights Out Texas** – Leading the technical roadmap for an AI-powered bird reporting platform with the Texas Conservation Alliance[cite: 29, 31].
+5) **Technology & Operations Lead @ Manochetana** – Scaled digital fundraising platforms and automated workflows for non-profit outreach.
 
 
-[cite_start]2) **COVID19 Vaccine Intelligence System Tracker** – Built an automated vaccine-tracking engine aggregating real-time data across 50 states[cite: 36, 37].
+## personal projects:
+
+1) **COVID19 Vaccine Intelligence System Tracker** – Built an automated tracking engine aggregating real-time data across 50 states for 20,000+ users.
 
 
-[cite_start]3) **Personal Finance Insights Engine** – Developed an ML finance engine using Plaid and FastAPI to analyze spending for thousands of accounts[cite: 40, 41].
+2) **Personal Finance Insights Engine** – Developed an ML-powered engine using Plaid and FastAPI to analyze spending patterns and detect anomalies.
 
 
-[cite_start]4) **Environmental Hazard Radar App** – Built a radar-style mobile app providing geolocated hazard visualizations for over 1,500 active users[cite: 44, 45].
+3) **Environmental Hazard Radar App** – Created a geolocated hazard visualization app for 1,500+ active users with sub-200ms latency.
 
 ## i am currently learning: 
 
-- [cite_start]**Quantitative Finance** – Deepening my knowledge in financial modeling and valuation to bridge my CS major and Finance minor[cite: 5, 8].
-- [cite_start]**Deep Learning** – Expanding on machine learning research through advanced behavioral modeling[cite: 7, 13].
-- **System Architecture** – Leveraging my experience at Dell to understand large-scale cloud infrastructure.
+- **Quantitative Finance** – Merging my CS major and Finance minor through financial modeling and econometrics.
+- **Deep Learning** – Exploring advanced social signal processing and behavioral modeling.
+- **System Design** – Building on my cloud experience at Dell to understand high-scale distributed systems.
 
 ## things outside of technology:
 
-- [cite_start]i have been playing **tennis** my whole life and am an active athlete in both **tennis** and **volleyball**[cite: 49].
-- [cite_start]i love to stay **athletic** and explore the outdoors through **hiking** and staying active[cite: 49].
-- [cite_start]i am a big fan of **video games**, specifically titles like **ELDEN RING** and **VALORANT**[cite: 49].
-- i enjoy watching a **diverse genre of animes** and various **TV shows** in my downtime.
-- i love to **travel** and explore new cultures whenever i have the opportunity.
-- [cite_start]i am a massive **music enthusiast**—my favorite bands are **Radiohead** and **The Strokes**[cite: 49].
-- [cite_start]i also love to listen to **Jazz** and **Bossa Nova**, and i'm a self-proclaimed **Acai Bowl Connoisseur**[cite: 49].
+- i have been playing **tennis** my whole life and am an active member of the **UTD Tennis Club**.
+- i love being **athletic** and staying outdoors, specifically through **volleyball** and **hiking**.
+- i am a big **gamer**; i spend most of my time in **ELDEN RING** or playing **VALORANT**.
+- i enjoy watching a **diverse genre of animes** and catching up on **TV shows**.
+- i love to **travel** and explore new cultures whenever i have the chance.
+- i am a massive **music enthusiast**—my favorite bands are **Radiohead** and **The Strokes**.
+- i also love to listen to **Jazz** and **Bossa Nova**, and i am a self-proclaimed **Acai Bowl Connoisseur**.
 
-[cite_start]reach me at: **suhaasg05@gmail.com** [cite: 2]
+reach me at: **suhaasg05@gmail.com**
 
-[cite_start]my linkedin: **[https://linkedin.com/in/suhaasga](https://linkedin.com/in/suhaasga)** [cite: 2]
+my linkedin: **[https://linkedin.com/in/suhaasga](https://linkedin.com/in/suhaasga)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
