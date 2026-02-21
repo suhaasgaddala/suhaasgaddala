@@ -1,58 +1,55 @@
 ### hey there! i am suhaas gaddala
 
-#### [cite_start]an aspiring data scientist and strategic consultant, focused on the intersection of machine learning, cloud systems, and business advisory 
+#### an aspiring data scientist and computer science student, currently focused on the intersection of machine learning, cloud systems, and financial engineering
 
 ## experience:
 
-1) **Strategy Consultant @ Consult Your Community** – Executing high-impact strategic advisory and operational re-engineering for local enterprises to drive scalable growth and optimize community-wide economic outcomes.
+1) **Machine Learning Research Intern @ UT Southwestern** – Architecting computational neuro-behavioral models and social signal processing pipelines to analyze complex behavioral patterns.
 
-[cite_start]2) **Machine Learning Research Intern @ UT Southwestern** – Applying computational neuro-behavioral modeling and social signal processing to analyze and understand complex behavioral patterns.
+2) **Software Engineer Intern @ Dell Cloud Infrastructure** – Engineered scalable cloud solutions and infrastructure-as-code during the Summer 2025 term.
 
-[cite_start]3) **Technical Lead @ Lights Out Texas** – Architecting the technical roadmap for an AI-powered bird reporting platform with the Texas Conservation Alliance to support large-scale environmental data analysis.
+3) **Hardware & Software Developer @ Nova** – Engineered a high-throughput multimodal pipeline processing 1.2M+ LiDAR and vision frames/week, reducing model training time by 47%.
 
-4) **Software Engineer Intern @ Dell Cloud Infrastructure** – Previously engineered scalable cloud solutions and infrastructure-as-code during the Summer of 2025.
+4) **Technical Lead @ Lights Out Texas** – Built an AI-powered bird reporting platform with the Texas Conservation Alliance, improving hazard detection accuracy by 62%.
 
-[cite_start]5) **Hardware & Software Developer @ Nova** – Engineered high-throughput multimodal pipelines for LiDAR and vision data, reducing training time by 47% and significantly improving hazard precision for autonomous driving systems.
+5) **Technology & Operations Lead @ Manochetana** – Scaled digital fundraising platforms from 800 to 12,500+ monthly visitors and automated global outreach workflows.
 
-[cite_start]6) **Technology & Operations Lead @ Manochetana** – Scaled digital fundraising platforms by 15x in traffic and automated global outreach workflows for an international non-profit.
-
+6) **Strategy Consultant @ Consult Your Community** – Executing strategic advisory and operational re-engineering for local enterprises to drive scalable community growth.
 
 ## current & completed projects:
 
-[cite_start]1) **COVID19 Vaccine Intelligence System Tracker** – Built an automated vaccine-tracking engine aggregating real-time data across 50 states, serving 20,000+ user queries.
+1) **COVID19 Vaccine Intelligence System Tracker** – Built an automated tracking engine aggregating real-time data across 50 states for 20,000+ users.
 
-[cite_start]2) **Personal Finance Insights Engine** – Developed an ML-powered engine using Plaid and FastAPI to analyze spending patterns and provide anomaly-detection for 2,000+ accounts.
+2) **Personal Finance Insights Engine** – Developed an ML-powered engine using Plaid and FastAPI to analyze spending patterns and detect anomalies for 2,000+ accounts.
 
-[cite_start]3) **Environmental Hazard Radar App** – Created a geolocated hazard visualization app for 1,500+ active users with sub-200ms latency.
+3) **Environmental Hazard Radar App** – Created a geolocated hazard visualization app for 1,500+ active users with sub-200ms latency.
 
 ## i am currently learning: 
 
-- [cite_start]**Quantitative Finance** – Deepening my knowledge in financial modeling and econometrics to bridge my Computer Science major and Finance minor.
-- **Advanced Machine Learning** – Expanding on social signal processing and behavioral modeling research.
+- **Quantitative Finance** – Deepening my knowledge in financial modeling and econometrics to bridge my Computer Science major and Finance minor.
+- **Deep Learning** – Expanding on social signal processing and behavioral modeling research.
 - **System Architecture** – Leveraging my experience at Dell to master high-scale distributed systems and cloud infrastructure.
 
 ## things outside of technology:
 
-- **fun fact**: i was ranked in the **top 10,000 in the world** for **VALORANT** and am an extremely talented tactical shooter player.
-- [cite_start]i have been playing **tennis** my whole life and am an active athlete in both **tennis** and **volleyball**.
-- i love to stay **athletic** and explore the outdoors through **hiking** and staying active.
-- i am a big **gamer**; in addition to VALORANT, i spend time in the Lands Between in **ELDEN RING**.
-- i enjoy watching a **diverse genre of animes** and various **TV shows** in my downtime.
-- [cite_start]i am a massive **music enthusiast**—my favorite bands are **Radiohead** and **The Strokes**.
-- [cite_start]i also love to listen to **Jazz** and **Bossa Nova**, and i'm a self-proclaimed **Acai Bowl Connoisseur**.
+- **fun fact**: i am extremely talented at tactical shooters and was ranked in the **top 10,000 in the world** for **VALORANT**.
+- i have been playing **tennis** my whole life and am an active member of the **UTD Tennis Club**.
+- i love being **athletic** and staying outdoors, specifically through **volleyball** and **hiking**.
+- i am a big fan of **video games**; outside of VALORANT, i spend most of my time in **ELDEN RING**.
+- i enjoy watching a **diverse genre of animes** and catching up on **TV shows** in my downtime.
 - i love to **travel** and explore new cultures whenever i have the opportunity.
+- i am a massive **music enthusiast**—my favorite bands are **Radiohead** and **The Strokes**.
+- i also love to listen to **Jazz** and **Bossa Nova**, and i'm a self-proclaimed **Acai Bowl Connoisseur**.
 
-[cite_start]reach me at: **suhaasg05@gmail.com** 
+reach me at: **suhaasg05@gmail.com**
 
-[cite_start]my linkedin: **[https://linkedin.com/in/suhaasga](https://linkedin.com/in/suhaasga)** 
+my linkedin: **[https://linkedin.com/in/suhaasga](https://linkedin.com/in/suhaasga)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/suhaasgaddala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="suhaasgaddala" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhaasga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhaasgaddala" height="30" width="40" /></a>
 </p>
-
-
 
 <h3 align="left">Main Languages and Tools</h3>
 very cool technologies that i've worked with in-depth:
