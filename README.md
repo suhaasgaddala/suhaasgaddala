@@ -1,48 +1,58 @@
-### hey there! i am suhaas gaddala
+### [cite_start]hey there! i am suhaas gaddala [cite: 1]
 
-#### an aspiring data scientist and finance student, currently focused on machine learning in medicine and finance
+#### [cite_start]an aspiring data scientist and computer science student, currently focused on machine learning, cloud systems, and finance [cite: 5, 8]
 
 ## experience:
 
-1) **Research Intern @ UT Southwestern Medical Center** – Applying machine learning to analyze and understand behavioral patterns in children with autism.
+[cite_start]1) **Machine Learning Research Intern @ UT Southwestern** – Focused on computational neuro-behavioral modeling and social signal processing to analyze behavioral patterns[cite: 10, 11, 13].
 
 
-2) **Computer Vision Engineer Intern @ Nova, Inc.** – Engineered a multimodal pipeline for LiDAR and vision data to advance autonomous driving software.
+2) **Software Engineer Intern @ Dell Cloud Infrastructure** – Previously worked on cloud infrastructure and scalable systems during the Summer of 2025.
 
 
-3) **Technology & Operations Lead @ Manochetana** – Scaled digital fundraising platforms and managed technical operations for this non-profit organization.
+[cite_start]3) **Hardware & Software Developer @ Nova** – Engineered a high-throughput multimodal pipeline for LiDAR and vision data to improve hazard precision for autonomous driving[cite: 12, 14, 17, 18].
 
 
-## completed projects:
-
-1) **Lights Out Texas** - Technical Lead for an AI-powered bird reporting platform developed with the Texas Conservation Alliance to track collisions.
+[cite_start]4) **Technology & Operations Lead @ Manochetana** – Built digital fundraising platforms that scaled global reach and streamlined campaign execution workflows[cite: 21, 22, 24, 27].
 
 
-2) **SSB-Bird-Collision-Reporting** - Developed and maintained the repository for bird collision data analysis and reporting.
+## current & completed projects:
+
+[cite_start]1) **Technical Lead - Lights Out Texas** – Leading the technical roadmap for an AI-powered bird reporting platform with the Texas Conservation Alliance[cite: 29, 31].
+
+
+[cite_start]2) **COVID19 Vaccine Intelligence System Tracker** – Built an automated vaccine-tracking engine aggregating real-time data across 50 states[cite: 36, 37].
+
+
+[cite_start]3) **Personal Finance Insights Engine** – Developed an ML finance engine using Plaid and FastAPI to analyze spending for thousands of accounts[cite: 40, 41].
+
+
+[cite_start]4) **Environmental Hazard Radar App** – Built a radar-style mobile app providing geolocated hazard visualizations for over 1,500 active users[cite: 44, 45].
 
 ## i am currently learning: 
 
-- **Quantitative Finance** - Exploring financial modeling and data science applications to complement my minor.
-- **Advanced ML Theory** - Deepening my understanding of neural networks and building models from scratch.
-- **Data Structures & Algorithms** - Refining my technical problem-solving skills in Python, Java, and SQL for Summer 2026 roles.
+- [cite_start]**Quantitative Finance** – Deepening my knowledge in financial modeling and valuation to bridge my CS major and Finance minor[cite: 5, 8].
+- [cite_start]**Deep Learning** – Expanding on machine learning research through advanced behavioral modeling[cite: 7, 13].
+- **System Architecture** – Leveraging my experience at Dell to understand large-scale cloud infrastructure.
 
 ## things outside of technology:
 
-- i have been playing **tennis** my whole life and am an active member of the **UTD Tennis Club**.
-- i love to be **athletic**; you can usually find me playing **volleyball**, **hiking**, or staying active.
-- i am a big fan of **anime** (especially **Re:Zero**) and **video games** like **ELDEN RING** and **VALORANT**.
-- i love to **travel** and explore new places, and i enjoy watching **TV shows** in my downtime.
-- i am deeply into **music**—my favorite bands are **Radiohead** and **The Strokes**.
-- i also love to listen to **Jazz**, **Bossa Nova**, and artists like **Nujabes**.
+- [cite_start]i have been playing **tennis** my whole life and am an active athlete in both **tennis** and **volleyball**[cite: 49].
+- [cite_start]i love to stay **athletic** and explore the outdoors through **hiking** and staying active[cite: 49].
+- [cite_start]i am a big fan of **video games**, specifically titles like **ELDEN RING** and **VALORANT**[cite: 49].
+- i enjoy watching a **diverse genre of animes** and various **TV shows** in my downtime.
+- i love to **travel** and explore new cultures whenever i have the opportunity.
+- [cite_start]i am a massive **music enthusiast**—my favorite bands are **Radiohead** and **The Strokes**[cite: 49].
+- [cite_start]i also love to listen to **Jazz** and **Bossa Nova**, and i'm a self-proclaimed **Acai Bowl Connoisseur**[cite: 49].
 
-reach me at: **suhaas.gaddala@gmail.com**
+[cite_start]reach me at: **suhaasg05@gmail.com** [cite: 2]
 
-my linkedin: **[https://www.linkedin.com/in/suhaas-gaddala/](https://www.linkedin.com/in/suhaas-gaddala/)**
+[cite_start]my linkedin: **[https://linkedin.com/in/suhaasga](https://linkedin.com/in/suhaasga)** [cite: 2]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/suhaasgaddala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="suhaasgaddala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suhaas-gaddala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhaasgaddala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suhaasga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhaasgaddala" height="30" width="40" /></a>
 </p>
 
 
