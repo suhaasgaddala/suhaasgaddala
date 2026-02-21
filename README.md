@@ -1,53 +1,50 @@
 ### hey there! i am suhaas gaddala
 
-#### an aspiring data scientist and computer science student, currently focused on machine learning, cloud systems, and finance
+#### [cite_start]an aspiring data scientist and strategic consultant, focused on the intersection of machine learning, cloud systems, and business advisory 
 
 ## experience:
 
-1) **Machine Learning Research Intern @ UT Southwestern** – Working on computational neuro-behavioral modeling and social signal processing to analyze behavioral patterns.
+1) **Strategy Consultant @ Consult Your Community** – Executing high-impact strategic advisory and operational re-engineering for local enterprises to drive scalable growth and optimize community-wide economic outcomes.
+
+[cite_start]2) **Machine Learning Research Intern @ UT Southwestern** – Applying computational neuro-behavioral modeling and social signal processing to analyze and understand complex behavioral patterns.
+
+[cite_start]3) **Technical Lead @ Lights Out Texas** – Architecting the technical roadmap for an AI-powered bird reporting platform with the Texas Conservation Alliance to support large-scale environmental data analysis.
+
+4) **Software Engineer Intern @ Dell Cloud Infrastructure** – Previously engineered scalable cloud solutions and infrastructure-as-code during the Summer of 2025.
+
+[cite_start]5) **Hardware & Software Developer @ Nova** – Engineered high-throughput multimodal pipelines for LiDAR and vision data, reducing training time by 47% and significantly improving hazard precision for autonomous driving systems.
+
+[cite_start]6) **Technology & Operations Lead @ Manochetana** – Scaled digital fundraising platforms by 15x in traffic and automated global outreach workflows for an international non-profit.
 
 
-2) **Technical Lead @ Lights Out Texas** – Leading the technical roadmap for an AI-powered bird reporting platform with the Texas Conservation Alliance.
+## current & completed projects:
 
+[cite_start]1) **COVID19 Vaccine Intelligence System Tracker** – Built an automated vaccine-tracking engine aggregating real-time data across 50 states, serving 20,000+ user queries.
 
-3) **Software Engineer Intern @ Dell Cloud Infrastructure** – Previously engineered scalable cloud solutions and infrastructure (Summer 2025).
+[cite_start]2) **Personal Finance Insights Engine** – Developed an ML-powered engine using Plaid and FastAPI to analyze spending patterns and provide anomaly-detection for 2,000+ accounts.
 
-
-4) **Hardware & Software Developer @ Nova** – Built high-throughput multimodal pipelines for LiDAR and vision data to improve autonomous driving safety.
-
-
-5) **Technology & Operations Lead @ Manochetana** – Scaled digital fundraising platforms and automated workflows for non-profit outreach.
-
-
-## personal projects:
-
-1) **COVID19 Vaccine Intelligence System Tracker** – Built an automated tracking engine aggregating real-time data across 50 states for 20,000+ users.
-
-
-2) **Personal Finance Insights Engine** – Developed an ML-powered engine using Plaid and FastAPI to analyze spending patterns and detect anomalies.
-
-
-3) **Environmental Hazard Radar App** – Created a geolocated hazard visualization app for 1,500+ active users with sub-200ms latency.
+[cite_start]3) **Environmental Hazard Radar App** – Created a geolocated hazard visualization app for 1,500+ active users with sub-200ms latency.
 
 ## i am currently learning: 
 
-- **Quantitative Finance** – Merging my CS major and Finance minor through financial modeling and econometrics.
-- **Deep Learning** – Exploring advanced social signal processing and behavioral modeling.
-- **System Design** – Building on my cloud experience at Dell to understand high-scale distributed systems.
+- [cite_start]**Quantitative Finance** – Deepening my knowledge in financial modeling and econometrics to bridge my Computer Science major and Finance minor.
+- **Advanced Machine Learning** – Expanding on social signal processing and behavioral modeling research.
+- **System Architecture** – Leveraging my experience at Dell to master high-scale distributed systems and cloud infrastructure.
 
 ## things outside of technology:
 
-- i have been playing **tennis** my whole life and am an active member of the **UTD Tennis Club**.
-- i love being **athletic** and staying outdoors, specifically through **volleyball** and **hiking**.
-- i am a big **gamer**; i spend most of my time in **ELDEN RING** or playing **VALORANT**.
-- i enjoy watching a **diverse genre of animes** and catching up on **TV shows**.
-- i love to **travel** and explore new cultures whenever i have the chance.
-- i am a massive **music enthusiast**—my favorite bands are **Radiohead** and **The Strokes**.
-- i also love to listen to **Jazz** and **Bossa Nova**, and i am a self-proclaimed **Acai Bowl Connoisseur**.
+- **fun fact**: i was ranked in the **top 10,000 in the world** for **VALORANT** and am an extremely talented tactical shooter player.
+- [cite_start]i have been playing **tennis** my whole life and am an active athlete in both **tennis** and **volleyball**.
+- i love to stay **athletic** and explore the outdoors through **hiking** and staying active.
+- i am a big **gamer**; in addition to VALORANT, i spend time in the Lands Between in **ELDEN RING**.
+- i enjoy watching a **diverse genre of animes** and various **TV shows** in my downtime.
+- [cite_start]i am a massive **music enthusiast**—my favorite bands are **Radiohead** and **The Strokes**.
+- [cite_start]i also love to listen to **Jazz** and **Bossa Nova**, and i'm a self-proclaimed **Acai Bowl Connoisseur**.
+- i love to **travel** and explore new cultures whenever i have the opportunity.
 
-reach me at: **suhaasg05@gmail.com**
+[cite_start]reach me at: **suhaasg05@gmail.com** 
 
-my linkedin: **[https://linkedin.com/in/suhaasga](https://linkedin.com/in/suhaasga)**
+[cite_start]my linkedin: **[https://linkedin.com/in/suhaasga](https://linkedin.com/in/suhaasga)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
