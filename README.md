@@ -37,8 +37,8 @@
 - i love being **athletic** and staying outdoors, specifically through **volleyball** and **hiking**.
 - i enjoy watching a **diverse genre of animes** and catching up on **TV shows** in my downtime.
 - i love to **travel** and explore new cultures whenever i have the opportunity.
-- i am a massive **music enthusiast**—my favorite bands are **Radiohead** and **The Strokes**.
-- i also love to listen to **Jazz** and **Bossa Nova**, and i'm a self-proclaimed **Acai Bowl Connoisseur**.
+- i am a massive **music enthusiast** and my favorite bands are **Radiohead** and **The Strokes**.
+- i also love to listen to **Jazz** and **Bossa Nova**, and a big **Acai Bowl Connoisseur**.
 
 reach me at: **suhaasg05@gmail.com**
 
