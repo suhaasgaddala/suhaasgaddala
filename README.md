@@ -24,6 +24,8 @@
 
 3) **Environmental Hazard Radar App** – Created a geolocated hazard visualization app for 1,500+ active users with sub-200ms latency.
 
+4) **Automatic Lens Correction Hackathon Project** – Built a geometry-first lens distortion correction system that predicts a hybrid warp grid (parametric lens model + bounded residual flow) to straighten wide-angle images while preserving sharp edges.
+
 ## i am currently learning: 
 
 - **Quantitative Finance** – Deepening my knowledge in financial modeling and econometrics to bridge my Computer Science major and Finance minor.
