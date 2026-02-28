@@ -34,7 +34,7 @@
 
 ## things outside of technology:
 
-- **fun fact**: i am a massive fan of **first-person shooters** and was previously ranked in the **top 10,000 in the world** for **VALORANT**.
+- **fun fact**: i am a massive fan of **first-person shooters** and was previously ranked in the **top 10,000 in the world** for **VALORANT**. i am also a model for an agency based in new york!
 - i have been playing **tennis** my whole life and am an active member of the **UTD Tennis Club**.
 - i love being **athletic** and staying outdoors, specifically through **volleyball** and **hiking**.
 - i enjoy watching a **diverse genre of animes** and catching up on **TV shows** in my downtime.
