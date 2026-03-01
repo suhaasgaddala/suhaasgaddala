@@ -1,4 +1,4 @@
-hungry to learn
+hungry to learn, not tryna ramcap
 
 <h3 align="left">links:</h3>
 <p align="left">
