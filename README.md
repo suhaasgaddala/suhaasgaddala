@@ -1,50 +1,6 @@
 ### hey there! i am suhaas gaddala
 
-#### an aspiring data scientist and computer science student, currently focused on the intersection of machine learning, cloud systems, and financial engineering
-
-## experience:
-
-1) **Machine Learning Research Intern @ UT Southwestern** – Architecting computational neuro-behavioral models and social signal processing pipelines to analyze complex behavioral patterns.
-
-2) **Software Engineer Intern @ Dell Cloud Infrastructure** – Previously engineered scalable cloud solutions and infrastructure-as-code during the Summer 2025 term.
-
-3) **Hardware & Software Developer @ Nova** – Engineered a high-throughput multimodal pipeline processing 1.2M+ LiDAR and vision frames/week, reducing model training time by 47%.
-
-4) **Technical Lead @ Lights Out Texas** – Built an AI-powered bird reporting platform with the Texas Conservation Alliance, improving hazard detection accuracy by 62%.
-
-5) **Technology & Operations Lead @ Manochetana** – Scaled digital fundraising platforms from 800 to 12,500+ monthly visitors and automated global outreach workflows.
-
-6) **Strategy Consultant @ Consult Your Community** – Executing strategic advisory and operational re-engineering for local enterprises to drive scalable community growth.
-
-## current & completed projects:
-
-1) **COVID19 Vaccine Intelligence System Tracker** – Built an automated tracking engine aggregating real-time data across 50 states for 20,000+ users.
-
-2) **Personal Finance Insights Engine** – Developed an ML-powered engine using Plaid and FastAPI to analyze spending patterns and detect anomalies for 2,000+ accounts.
-
-3) **Environmental Hazard Radar App** – Created a geolocated hazard visualization app for 1,500+ active users with sub-200ms latency.
-
-4) **Automatic Lens Correction Hackathon Project** – Built a geometry-first lens distortion correction system that predicts a hybrid warp grid (parametric lens model + bounded residual flow) to straighten wide-angle images while preserving sharp edges.
-
-## i am currently learning: 
-
-- **Quantitative Finance** – Deepening my knowledge in financial modeling and econometrics to bridge my Computer Science major and Finance minor.
-- **Deep Learning** – Expanding on social signal processing and behavioral modeling research.
-- **System Architecture** – Leveraging my experience at Dell to master high-scale distributed systems and cloud infrastructure.
-
-## things outside of technology:
-
-- **fun fact**: i am a massive fan of **first-person shooters** and was previously ranked in the **top 10,000 in the world** for **VALORANT**. i am also a model for an agency based in new york!
-- i have been playing **tennis** my whole life and am an active member of the **UTD Tennis Club**.
-- i love being **athletic** and staying outdoors, specifically through **volleyball** and **hiking**.
-- i enjoy watching a **diverse genre of animes** and catching up on **TV shows** in my downtime.
-- i love to **travel** and explore new cultures whenever i have the opportunity.
-- i am a massive **music enthusiast** and my favorite bands are **Radiohead** and **The Strokes**.
-- i also love to listen to **Jazz** and **Bossa Nova**, and a big **Acai Bowl Connoisseur**.
-
-reach me at: **suhaasg05@gmail.com**
-
-my linkedin: **[https://linkedin.com/in/suhaasga](https://linkedin.com/in/suhaasga)**
+hungry to learn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
